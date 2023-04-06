@@ -1,6 +1,6 @@
 'use strict';
 
-let number = 4;
+//let number = 4;
 
 console.log(4 / 0); // полчум положительную бесконечность Infinity
 console.log(-4 / 0); // получим отрицательную бесконечность -Infinity
@@ -9,9 +9,9 @@ console.log('Privet' * 8); // получим "не число" NaN
 let person = 'Anton';
 console.log(person);
 
-let bool = true; // булевые выражения
+//let bool = true; // булевые выражения
 
-console.log(something); // получим null так как отсутствует ссылку на не существующий обект
+//console.log(something); // получим null так как отсутствует ссылку на не существующий обект
 
 let und;
 console.log(und); // отсутствует значение в перменной дает undefined
